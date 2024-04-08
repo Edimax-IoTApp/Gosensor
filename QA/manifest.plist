@@ -33,7 +33,7 @@
 				<key>bundle-identifier</key>
 				<string>com.edimax.sensors</string>
 				<key>bundle-version</key>
-				<string>0.3a(20231215)</string>
+				<string>1.0.1.0404.1(20240404)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
